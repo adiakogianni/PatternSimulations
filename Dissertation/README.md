@@ -1,1 +1,0 @@
-This folder takes the PhysiBoSs repository ( https://github.com/gletort/PhysiBoSS) and replaces folders PhysiBoSS/src/BioFVM and PhysiBoSS/src/core with folders PhysiBoSSa/BioFVM and PhysiBoSSa/core from the PhysiBoSSa repository (https://github.com/pradas/PhysiBoSSa), respectively.   
